@@ -1,0 +1,93 @@
+body
+{
+	background-color: #d9d9d9; /* Very light grey */
+	font-family: "Franklin Gothic Book";
+	margin: 0;
+}/* End of Body */
+#I1, #I3, #I5, #I7, #I9, #I11
+{
+	margin-left: 10%;
+}/* End of #I1, #I3, #I5, #I7, #I9 */
+#I2, #I4, #I6, #I8, #I10
+{
+	margin-right: 10%;
+}/* End of #I2, #I4, #I6, #I8, #I10 */
+p
+{
+	font-size: 16px;
+}/* End of p */
+h1
+{
+	font-size: 70px;
+}/* End of h1*/
+h2
+{
+	font-size: 30px;
+	color: red;
+}/* End of h2 */
+h1, h2, p
+{
+	margin-left: 5%;
+	margin-right: 5%;
+}/* End of h1, h2, p */
+#R1, #R2, #R3, #R4, #R5, #R6, #R7, #R8, #R9
+{
+	color: #000080; /* Navy Blue */
+}/* End of #R1, #R2, #R3, #R4, #R5, #R6, #R7, #R8, #R9 */
+#References, #Glossary, #Index
+{
+	color: #000080; /* Navy Blue */
+}/* End of #References, #Glossary */
+#ReferenceLink, #GlossaryLink
+{
+	float: right;
+}/* End of #ReferenceLink */
+#Hotbar
+{
+	background-color: #595959; /* Grey */
+	overflow: hidden;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	width: 100%;	
+}/* End of #Hotbar */
+li a
+{
+	display: block;
+    width: 150px;
+	padding: 8px 2px;
+	text-decoration: none;
+	font-family: "Franklin Gothic Book";
+	color: white;
+	overflow: auto;
+	font-size: 20px;
+}/* End of li a */
+ul a:hover
+{
+	background-color: black;
+}/* End of ul a:hover */
+li
+{
+	float: left;
+}/* End of li */
+table, td, th
+{
+	border: 3px solid black;
+	font-size: 20px;
+}/* End of table, td, th */
+table
+{
+	border-collapse: collapse;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5px;
+}/* End of table */
+td, th
+{
+	padding: 10px;
+}/* End of td, th */
+th
+{
+	color: red;
+}/*End of th */
