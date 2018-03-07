@@ -42,7 +42,7 @@ h1, h2, p
 {
 	float: right;
 }/* End of #ReferenceLink */
-#Hotbar
+#Hotbar, #Hotbar2
 {
 	background-color: #595959; /* Grey */
 	overflow: hidden;
